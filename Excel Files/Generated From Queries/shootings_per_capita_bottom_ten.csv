@@ -1,0 +1,11 @@
+state_code,state,per_capita
+CT,Connecticut,0.09
+MA,Massachusetts,0.09
+NY,"New York",0.09
+RI,"Rhode Island",0.12
+NJ,"New Jersey",0.12
+IL,Illinois,0.16
+PA,Pennsylvania,0.17
+IA,Iowa,0.18
+MI,Michigan,0.18
+MN,Minnesota,0.19

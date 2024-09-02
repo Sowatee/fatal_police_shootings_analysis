@@ -1,0 +1,52 @@
+state_code,state,per_capita
+CT,Connecticut,0.09
+MA,Massachusetts,0.09
+NY,"New York",0.09
+RI,"Rhode Island",0.12
+NJ,"New Jersey",0.12
+IL,Illinois,0.16
+PA,Pennsylvania,0.17
+IA,Iowa,0.18
+MI,Michigan,0.18
+MN,Minnesota,0.19
+NH,"New Hampshire",0.21
+MD,Maryland,0.21
+VA,Virginia,0.22
+DE,Delaware,0.25
+OH,Ohio,0.25
+VT,Vermont,0.27
+WI,Wisconsin,0.27
+NC,"North Carolina",0.29
+NE,Nebraska,0.29
+FL,Florida,0.30
+IN,Indiana,0.30
+ND,"North Dakota",0.32
+ME,Maine,0.32
+KS,Kansas,0.33
+TX,Texas,0.33
+HI,Hawaii,0.33
+SC,"South Carolina",0.33
+WA,Washington,0.35
+CA,California,0.36
+GA,Georgia,0.37
+AL,Alabama,0.39
+SD,"South Dakota",0.39
+OR,Oregon,0.39
+KY,Kentucky,0.40
+UT,Utah,0.40
+TN,Tennessee,0.41
+MO,Missouri,0.43
+LA,Louisiana,0.43
+DC,DC,0.45
+AR,Arkansas,0.46
+MS,Mississippi,0.46
+ID,Idaho,0.48
+NV,Nevada,0.55
+WV,"West Virginia",0.56
+WY,Wyoming,0.56
+MT,Montana,0.59
+AZ,Arizona,0.64
+CO,Colorado,0.65
+OK,Oklahoma,0.70
+AK,Alaska,0.92
+NM,"New Mexico",1.02
